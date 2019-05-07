@@ -13,3 +13,15 @@ Simple Fixed-Point Method
 Newton-Rapson Method
 
 Secant Method
+
+## HW_2 
+
+### Gauss Elimination
+
+Naive Gauss Elimination
+
+### Iteration Method
+
+Gauss Seidel Method
+
+Jacobi iteration Method
