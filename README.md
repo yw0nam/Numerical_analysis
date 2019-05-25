@@ -1,6 +1,6 @@
 # Numerical_analysis
 Numerical analysis Codes
-## HW_1
+## HW_1 (Python)
 ### Bracket Method
 Bisection Method
 
@@ -13,3 +13,15 @@ Simple Fixed-Point Method
 Newton-Rapson Method
 
 Secant Method
+
+## HW_2 (Matlab)
+
+### Gauss Elimination
+
+Naive Gauss Elimination
+
+### Iteration Method
+
+Gauss Seidel Method
+
+Jacobi iteration Method
