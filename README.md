@@ -28,6 +28,6 @@ Jacobi iteration Method
 
 ## HW_3 (Matlab)
 
-###Polynomial Interpolation
+### Polynomial Interpolation
 
 Using Divided Interpolation
