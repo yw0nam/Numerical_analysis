@@ -44,7 +44,7 @@ Simpson 3/8 rule
 
 Gauss-Legendre formula
 
-### numerical Differentiation
+### Numerical Differentiation
 
 Finite Forward Diffrentiation
 
