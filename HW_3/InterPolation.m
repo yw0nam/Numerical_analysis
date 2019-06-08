@@ -1,10 +1,10 @@
 clear
 clc
 
-%x = [1.2, 2.1, 3.0, 3.6];   % X value
-%y = [0.7, 8.1, 27.7, 45.1];  % Y value
-% x = [1, 2, 3, 4, 5, 6];   % X value_2
-    % y = [14.5, 19.5, 30.5, 53.5, 94.5, 159.5];  % Y value_2
+x = [1.2, 2.1, 3.0, 3.6];   % X value array for Question_2
+y = [0.7, 8.1, 27.7, 45.1];  % Y value array for Question_2 
+%x = [1, 2, 3, 4, 5, 6];   % X value array for Question_3
+%y = [14.5, 19.5, 30.5, 53.5, 94.5, 159.5];  % Y value for Question_3
 
 dim = length(x) -1;  %Calculate Dimension
 iter = 1;  %iteration
@@ -49,9 +49,9 @@ end
 fprintf('Bias\n');
 disp(bias);
 
-f_val = get_poly(x, bias, 4.5);
-fprintf('Polynomial value in x = 4.5 :%d\n',f_val);
-fprintf("Nam Young Woo's figure\n")
+% f_val = get_poly(x, bias, 4.5);
+% fprintf('Polynomial value in x = 4.5 :%d\n',f_val);
+% fprintf("Nam Young Woo's figure\n")
 
 function [out] = diff_divide(X_1, X_2, Y_1, Y_2)  %function for Divided difference 
     out = (Y_2 - Y_1) / (X_2 - X_1);
