@@ -25,3 +25,9 @@ Naive Gauss Elimination
 Gauss Seidel Method
 
 Jacobi iteration Method
+
+## HW_3 (Matlab)
+
+### Polynomial Interpolation
+
+Using Divided Interpolation
