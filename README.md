@@ -31,3 +31,23 @@ Jacobi iteration Method
 ### Polynomial Interpolation
 
 Using Divided Interpolation
+
+## HW_4 (Matlab)
+
+### Numerical Integral
+
+Trapezoidal rule
+
+Simpson 1/3 rule
+
+Simpson 3/8 rule
+
+Gauss-Legendre formula
+
+### numerical Differentiation
+
+Finite Forward Diffrentiation
+
+Backward Diffrentiation
+
+Centered Diffrentiation
